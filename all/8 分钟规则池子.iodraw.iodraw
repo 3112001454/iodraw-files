@@ -538,7 +538,7 @@
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-209" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-230" y="2238" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YIVJWa_TwaL__Bnk8xpz-214" value="pID&lt;div&gt;订单 Id&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="YIVJWa_TwaL__Bnk8xpz-214" value="pID+app&lt;div&gt;pId+PC&lt;br&gt;&lt;div&gt;订单 Id&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="670" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
