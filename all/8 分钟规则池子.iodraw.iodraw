@@ -247,7 +247,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-92" value="模的数量是否&lt;div&gt;大于 1&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="740" y="1840" width="80" height="80" as="geometry" />
+          <mxGeometry x="740" y="1878" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YIVJWa_TwaL__Bnk8xpz-93" target="YIVJWa_TwaL__Bnk8xpz-96">
           <mxGeometry relative="1" as="geometry" />
@@ -273,8 +273,8 @@
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.444;entryY=1.039;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YIVJWa_TwaL__Bnk8xpz-100" target="YIVJWa_TwaL__Bnk8xpz-93">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="840" y="2040" />
-              <mxPoint x="933" y="2040" />
+              <mxPoint x="840" y="2140" />
+              <mxPoint x="933" y="2140" />
             </Array>
           </mxGeometry>
         </mxCell>
