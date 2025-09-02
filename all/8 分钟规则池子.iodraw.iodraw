@@ -161,8 +161,8 @@
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-50" value="判断是否截单" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="500" y="1040" width="120" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="YIVJWa_TwaL__Bnk8xpz-52" value="cmdId" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="700" y="1072.5" width="120" height="60" as="geometry" />
+        <mxCell id="YIVJWa_TwaL__Bnk8xpz-52" value="推送cmdId(900140)&lt;br&gt;&lt;div&gt;同步多端进入 loading&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="699" y="1072.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-54" value="未截单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="620" y="1078" width="60" height="30" as="geometry" />
