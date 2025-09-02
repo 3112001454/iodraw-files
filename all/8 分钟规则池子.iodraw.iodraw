@@ -120,8 +120,8 @@
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-33" value="通话类型&lt;div&gt;（2,4,5,6）&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="370" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YIVJWa_TwaL__Bnk8xpz-37" value="是否截单" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="495" y="650" width="130" height="80" as="geometry" />
+        <mxCell id="YIVJWa_TwaL__Bnk8xpz-37" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="490" y="650" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YIVJWa_TwaL__Bnk8xpz-26" target="YIVJWa_TwaL__Bnk8xpz-37">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
