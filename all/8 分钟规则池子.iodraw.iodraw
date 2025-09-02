@@ -500,14 +500,8 @@
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-183" value="记录订单推送开始时间" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-890" y="2200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YIVJWa_TwaL__Bnk8xpz-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-329.99797385620894" y="1919.9966666666667" as="sourcePoint" />
-            <mxPoint x="105.07" y="2131.93" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-187" value="模的数量是否&lt;div&gt;大于 1&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-285" y="1889.25" width="130" height="127.5" as="geometry" />
+          <mxGeometry x="-285" y="2086.25" width="130" height="127.5" as="geometry" />
         </mxCell>
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-189" value="有" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-250" y="1820" width="40" height="30" as="geometry" />
