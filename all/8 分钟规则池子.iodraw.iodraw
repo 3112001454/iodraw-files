@@ -63,20 +63,11 @@
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-6" value="GrabbingOrder(主播抢单)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YIVJWa_TwaL__Bnk8xpz-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YIVJWa_TwaL__Bnk8xpz-9" target="YIVJWa_TwaL__Bnk8xpz-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-9" value="灰度开关&lt;br&gt;（762）" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="950" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-11" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="960" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="YIVJWa_TwaL__Bnk8xpz-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="1110" as="sourcePoint" />
-            <mxPoint x="440" y="1060" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
