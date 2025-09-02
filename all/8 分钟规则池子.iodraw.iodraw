@@ -66,6 +66,9 @@
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-9" value="灰度开关&lt;br&gt;（762）" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="950" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="YIVJWa_TwaL__Bnk8xpz-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YIVJWa_TwaL__Bnk8xpz-11" target="YIVJWa_TwaL__Bnk8xpz-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-11" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="960" width="120" height="60" as="geometry" />
         </mxCell>
