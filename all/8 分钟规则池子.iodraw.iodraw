@@ -147,16 +147,6 @@
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-45" value="未截单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="550" y="820" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YIVJWa_TwaL__Bnk8xpz-48" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="430" y="910" as="sourcePoint" />
-            <mxPoint x="510" y="740" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="510" y="790" />
-              <mxPoint x="460" y="740" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
