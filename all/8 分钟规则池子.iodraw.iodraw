@@ -471,8 +471,8 @@
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-172" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-960" y="1739" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YIVJWa_TwaL__Bnk8xpz-173" value="停止自动派单&lt;div&gt;（&lt;font color=&quot;#ff3333&quot;&gt;是否需要推送给老板&lt;/font&gt;）&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1290" y="1070" width="120" height="60" as="geometry" />
+        <mxCell id="YIVJWa_TwaL__Bnk8xpz-174" value="停止自动派单&lt;div&gt;（&lt;font color=&quot;#ff3333&quot;&gt;是否需要推送给老板&lt;/font&gt;）&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1080" y="1760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
