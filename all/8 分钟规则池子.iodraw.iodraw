@@ -313,7 +313,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-117" value="推送 cmdId（900141）给池子全部人（非 8 分钟状态、没有其他 loading 记录）退出 loading 状态" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1260" y="1570" width="140" height="100" as="geometry" />
+          <mxGeometry x="1270" y="1530" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-119" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1330" y="1678" width="40" height="30" as="geometry" />
@@ -539,7 +539,7 @@
           <mxGeometry x="-230" y="2238" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-214" value="pID+app&lt;div&gt;pId+PC&lt;br&gt;&lt;div&gt;订单 Id&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="670" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="669" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
