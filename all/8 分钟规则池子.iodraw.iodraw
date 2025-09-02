@@ -173,6 +173,9 @@
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YIVJWa_TwaL__Bnk8xpz-60" target="YIVJWa_TwaL__Bnk8xpz-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="YIVJWa_TwaL__Bnk8xpz-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YIVJWa_TwaL__Bnk8xpz-60" target="YIVJWa_TwaL__Bnk8xpz-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-60" value="判断模近 30 天的&lt;div&gt;单量是否高于 N&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="1260" width="140" height="95" as="geometry" />
         </mxCell>
@@ -184,6 +187,12 @@
         </mxCell>
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-65" value="大于 N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="620" y="1278" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YIVJWa_TwaL__Bnk8xpz-66" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="1277.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YIVJWa_TwaL__Bnk8xpz-68" value="小于等于 N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="1278" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
