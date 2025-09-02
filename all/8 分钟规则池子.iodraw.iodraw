@@ -228,6 +228,9 @@
             <mxPoint x="780" y="1880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="YIVJWa_TwaL__Bnk8xpz-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YIVJWa_TwaL__Bnk8xpz-87" target="YIVJWa_TwaL__Bnk8xpz-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-87" value="是否还有模" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="740" y="1720" width="80" height="80" as="geometry" />
         </mxCell>
@@ -271,6 +274,9 @@
               <mxPoint x="933" y="2040" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YIVJWa_TwaL__Bnk8xpz-104" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="880" y="1730" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
