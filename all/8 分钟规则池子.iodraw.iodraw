@@ -495,6 +495,9 @@
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YIVJWa_TwaL__Bnk8xpz-187" target="YIVJWa_TwaL__Bnk8xpz-147">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="YIVJWa_TwaL__Bnk8xpz-207" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YIVJWa_TwaL__Bnk8xpz-187" target="YIVJWa_TwaL__Bnk8xpz-206">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-187" value="模的数量是否&lt;div&gt;大于 1&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-285" y="2086.25" width="130" height="127.5" as="geometry" />
         </mxCell>
@@ -523,6 +526,9 @@
         </mxCell>
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-203" value="订单数量 DN加 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-280" y="1930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YIVJWa_TwaL__Bnk8xpz-206" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-280" y="2327.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
