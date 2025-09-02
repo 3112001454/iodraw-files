@@ -332,6 +332,9 @@
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YIVJWa_TwaL__Bnk8xpz-122" target="YIVJWa_TwaL__Bnk8xpz-124">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="YIVJWa_TwaL__Bnk8xpz-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YIVJWa_TwaL__Bnk8xpz-122" target="YIVJWa_TwaL__Bnk8xpz-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-122" value="判断是否大于&lt;div&gt;N 次&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1300" y="1210" width="80" height="80" as="geometry" />
         </mxCell>
@@ -350,8 +353,11 @@
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-127" value="cmdId(900139)&lt;div&gt;全量推送&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1715" y="1220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YIVJWa_TwaL__Bnk8xpz-129" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="YIVJWa_TwaL__Bnk8xpz-129" value="记录订单推送开始时间" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1915" y="1220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YIVJWa_TwaL__Bnk8xpz-131" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1280" y="1060" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
