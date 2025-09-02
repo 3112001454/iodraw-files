@@ -247,7 +247,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-92" value="模的数量是否&lt;div&gt;大于 1&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="740" y="1878" width="80" height="80" as="geometry" />
+          <mxGeometry x="740" y="1913" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YIVJWa_TwaL__Bnk8xpz-93" target="YIVJWa_TwaL__Bnk8xpz-96">
           <mxGeometry relative="1" as="geometry" />
@@ -259,7 +259,7 @@
           <mxGeometry x="830" y="1848" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-96" value="推送 cmdId（900141）给池子其他人（非 8 分钟状态、没有其他 loading 记录）退出 loading 状态" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1101" y="1840" width="140" height="80" as="geometry" />
+          <mxGeometry x="1140" y="1913" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-98" value="使用 hset记录模的 loading 信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="920" y="1072.5" width="120" height="60" as="geometry" />
