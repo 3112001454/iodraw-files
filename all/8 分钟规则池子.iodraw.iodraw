@@ -544,7 +544,7 @@
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-211" value="GetCPChatStatus&lt;div&gt;CPChatStatus&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1100" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YIVJWa_TwaL__Bnk8xpz-212" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="YIVJWa_TwaL__Bnk8xpz-212" value="&lt;font color=&quot;#ff3333&quot;&gt;是否需要增加 loading&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;状态返回&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1100" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
