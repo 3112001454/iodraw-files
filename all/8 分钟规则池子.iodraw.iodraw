@@ -489,7 +489,7 @@
           <mxGeometry x="-850" y="1812.5" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-180" value="cmdId(900139)&lt;div&gt;全量推送&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-895" y="2010" width="120" height="60" as="geometry" />
+          <mxGeometry x="-900" y="2010" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
