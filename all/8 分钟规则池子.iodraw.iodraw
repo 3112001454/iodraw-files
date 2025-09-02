@@ -472,7 +472,10 @@
           <mxGeometry x="-960" y="1739" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-174" value="停止自动派单&lt;div&gt;（&lt;font color=&quot;#ff3333&quot;&gt;是否需要推送给老板&lt;/font&gt;）&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1080" y="1760" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1100" y="1732.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YIVJWa_TwaL__Bnk8xpz-175" value="获取在线的模&lt;div&gt;（排除异性、8 分钟进行中、虚拟房中、后台一系列条件、灰度开关762、池子模）&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-870" y="1870" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
