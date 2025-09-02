@@ -120,6 +120,9 @@
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-33" value="通话类型&lt;div&gt;（2,4,5,6）&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="370" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="YIVJWa_TwaL__Bnk8xpz-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YIVJWa_TwaL__Bnk8xpz-37" target="YIVJWa_TwaL__Bnk8xpz-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-37" value="是否截单（N 秒内满足 N 名模或&amp;gt;N 秒）" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="660" width="140" height="130" as="geometry" />
         </mxCell>
@@ -128,6 +131,9 @@
             <mxPoint x="545" y="620" as="sourcePoint" />
             <mxPoint x="595" y="570" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YIVJWa_TwaL__Bnk8xpz-40" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="720" y="695" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
