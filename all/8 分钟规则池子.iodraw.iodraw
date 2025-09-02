@@ -141,11 +141,6 @@
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-42" value="已截单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="630" y="698" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YIVJWa_TwaL__Bnk8xpz-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YIVJWa_TwaL__Bnk8xpz-43">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="720" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-43" value="进入候选池" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="500" y="905" width="120" height="60" as="geometry" />
         </mxCell>
