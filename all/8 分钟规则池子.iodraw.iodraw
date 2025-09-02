@@ -159,7 +159,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YIVJWa_TwaL__Bnk8xpz-50" target="YIVJWa_TwaL__Bnk8xpz-55">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="1200" />
+              <mxPoint x="560" y="1200" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-50" value="判断是否满足&lt;div&gt;截单条件&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="500" y="1040" width="120" height="125" as="geometry" />
