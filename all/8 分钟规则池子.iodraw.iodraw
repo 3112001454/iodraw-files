@@ -461,7 +461,7 @@
           <mxGeometry x="-670" y="1732.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-168" value="判断是否大于&lt;div&gt;PN 次&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-850" y="1722.5" width="80" height="80" as="geometry" />
+          <mxGeometry x="-880" y="1730" width="110" height="72.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
