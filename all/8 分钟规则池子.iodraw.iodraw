@@ -480,8 +480,8 @@
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.471;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YIVJWa_TwaL__Bnk8xpz-168" target="YIVJWa_TwaL__Bnk8xpz-175">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YIVJWa_TwaL__Bnk8xpz-177" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-855" y="1808" width="50" height="30" as="geometry" />
+        <mxCell id="YIVJWa_TwaL__Bnk8xpz-177" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-850" y="1808" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
