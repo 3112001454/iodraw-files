@@ -229,6 +229,9 @@
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YIVJWa_TwaL__Bnk8xpz-87" target="YIVJWa_TwaL__Bnk8xpz-104">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="YIVJWa_TwaL__Bnk8xpz-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YIVJWa_TwaL__Bnk8xpz-87" target="YIVJWa_TwaL__Bnk8xpz-198">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-87" value="是否还有模" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="740" y="1720" width="80" height="80" as="geometry" />
         </mxCell>
@@ -502,7 +505,7 @@
           <mxGeometry x="-40" y="2118" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-198" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="730" y="1940" width="120" height="60" as="geometry" />
+          <mxGeometry x="720" y="1830" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
