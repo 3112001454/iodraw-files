@@ -490,9 +490,14 @@
           <mxGeometry x="-900" y="2017.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.583;entryY=-0.036;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YIVJWa_TwaL__Bnk8xpz-175" target="YIVJWa_TwaL__Bnk8xpz-180">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-830" y="1970" />
+              <mxPoint x="-830" y="1970" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="YIVJWa_TwaL__Bnk8xpz-183" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="YIVJWa_TwaL__Bnk8xpz-183" value="记录订单推送开始时间" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-900" y="2157.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
