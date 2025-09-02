@@ -158,6 +158,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="YIVJWa_TwaL__Bnk8xpz-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YIVJWa_TwaL__Bnk8xpz-50" target="YIVJWa_TwaL__Bnk8xpz-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-50" value="判断是否满足&lt;div&gt;截单条件&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="500" y="1040" width="120" height="130" as="geometry" />
         </mxCell>
@@ -166,6 +169,9 @@
         </mxCell>
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-54" value="未截单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="620" y="1078" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YIVJWa_TwaL__Bnk8xpz-60" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="490" y="1260" width="110" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
