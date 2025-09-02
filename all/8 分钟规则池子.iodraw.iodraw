@@ -52,7 +52,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-1" value="获取在线的模&lt;div&gt;（排除异性、8 分钟进行中、虚拟房中、后台一系列条件、灰度开关）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="540" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YIVJWa_TwaL__Bnk8xpz-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="YIVJWa_TwaL__Bnk8xpz-3" target="YIVJWa_TwaL__Bnk8xpz-30">
           <mxGeometry relative="1" as="geometry" />
